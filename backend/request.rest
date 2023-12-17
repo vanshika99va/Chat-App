@@ -1,0 +1,9 @@
+POST http://localhost:3001/authenticate 
+Content-Type: application/json
+
+{
+    "username":"zack"
+}
+
+//c6635c32-fb5a-47f2-9413-2819b5884d9d
+//f13546f7-270e-45f0-9dcb-66b22a51ec61
